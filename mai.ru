@@ -1,0 +1,5 @@
+data = input("введите дату")
+print(data)
+tasks = ("введите задачу")
+print(tasks)
+print(str(""))
